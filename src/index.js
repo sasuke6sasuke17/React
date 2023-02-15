@@ -64,3 +64,4 @@ ReactDom.render(<App />, document.getElementById("root")); // Appの閉じタグ
 // some_component
 
 // 頭文字が大文字で始まり、単語の区切りを大文字とする変数名の付け方を「パスカルケース」と呼ぶ
+// Reactのコンポーネントはパスカルケースで命名すること
