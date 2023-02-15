@@ -4,7 +4,7 @@ import Message from "./components/message";
 const App = () => {
   // const contentstyle = {
   //   color: "orange",
-  //   Fontsize: "18px"
+  //   fontSize: "18px"
   //   // React上の記法としてfont-sizeをFontsizeにしている
   // };
   return (
