@@ -11,7 +11,7 @@ const App = () => {
     <>
       <h1 style={{ color: "#731fe0" }}>2/15(水)</h1>
       {/* <p style={contentstyle}>ファイルの分割の処理を実行しました。</p> */}
-      <Message color="orange">ファイルの分割の処理を実行しました。</Message>
+      <Message color="orange">分割代入でCSSを反映させました。</Message>
       <Message color="#00cccd">分割代入でCSSを反映させました。</Message>
     </>
   );
